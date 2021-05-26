@@ -19,6 +19,7 @@ jobs:
       - name: Generate repository
         run: |
           curl -L -o repogen https://github.com/pgaskin/repogen/releases/download/v1.2.0/repogen-linux-64bit
+          chmod +x ./repogen
           ./repogen -c -b -d Debian packages ./deb ./repo
 
       - name: Deploy
