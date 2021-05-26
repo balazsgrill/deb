@@ -8,9 +8,9 @@ Priority: optional
 Description: Window-shutter controller
  Configurable home automation controller written in Go.
 Size: 4229888
-SHA512: 273e5d3d631f5743e3303e61a47dcc7e8d49a0cf3935000e773d83ecbb3e27d04fd33fb2f36982d0666467aa4f70c7a750cbe501c989dbe4b3314d16c745cb43
 SHA256: faf5cc102468259345c620712042860fad334a189b67b13b8131d0934e08fbf9
 SHA1: 0f476caf49d191aefcab53d896c4e733823d8ab1
 MD5sum: d95f76aee66b5a942e709f78e94c17b5
+SHA512: 273e5d3d631f5743e3303e61a47dcc7e8d49a0cf3935000e773d83ecbb3e27d04fd33fb2f36982d0666467aa4f70c7a750cbe501c989dbe4b3314d16c745cb43
 Filename: pool/main/w/wscgo/wscgo_0.6.0-202105240608_armhf.deb
 
